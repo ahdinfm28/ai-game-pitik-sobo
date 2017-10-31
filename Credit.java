@@ -1,11 +1,5 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
-
-/**
- * Write a description of class Credit here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
- */
+//HACKED BY FARISYA AHDIN MARTANTIANI CANTIK
 public class Credit extends World
 {
 

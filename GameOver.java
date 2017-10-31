@@ -1,11 +1,6 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
-/**
- * Write a description of class GameOver here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
- */
+//HALO JLIK :d
 public class GameOver extends World
 {
 
